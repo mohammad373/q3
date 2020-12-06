@@ -7,7 +7,7 @@ import time
 from colorama import Fore
 
 os.system("clear")
-def __1__():
+def __m__():
     my_list = ("""wordpress-importer
 regenerate-thumbnails
 wp-super-cache
@@ -1036,5 +1036,5 @@ aweber-web-form-widget
             if q.status_code == 200 :
                 print(Fore.BLUE + "[+] " + Fore.GREEN + q + Fore.RED + " | " + Fore.YELLOW + "Found" )
             else:
-                print(Fore.BLUE + "[-] " + Fore.RED + q + Fore.GREEN + " | " + Fore.YELLOW + "Not Found")
-__1__()
+                print("Hi")
+__m__()
