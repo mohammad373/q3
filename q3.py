@@ -1037,5 +1037,4 @@ aweber-web-form-widget
                 print(Fore.BLUE + "[+] " + Fore.GREEN + q + Fore.RED + " | " + Fore.YELLOW + "Found" )
             else:
                 print(Fore.BLUE + "[-] " + Fore.RED + q + Fore.GREEN + " | " + Fore.YELLOW + "Not Found")
-
 __1__()
